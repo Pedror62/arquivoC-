@@ -1,0 +1,15 @@
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.csproj.AssemblyReference.cache
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.AssemblyInfoInputs.cache
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.AssemblyInfo.cs
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.csproj.CoreCompileInputs.cache
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\bin\Debug\net6.0\desenvolvimento.exe
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\bin\Debug\net6.0\desenvolvimento.deps.json
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\bin\Debug\net6.0\desenvolvimento.runtimeconfig.json
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\bin\Debug\net6.0\desenvolvimento.dll
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\bin\Debug\net6.0\desenvolvimento.pdb
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.dll
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\refint\desenvolvimento.dll
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.pdb
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\desenvolvimento.genruntimeconfig.cache
+C:\Users\perei\OneDrive\Área de Trabalho\desenvolvimento\obj\Debug\net6.0\ref\desenvolvimento.dll
